@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88" role="img" aria-labelledby="title desc">
+  <title id="title">Angting Cai monogram</title>
+  <desc id="desc">A refined monogram mark with subtle cat-ear geometry and an A C construction.</desc>
+  <rect x="4" y="4" width="80" height="80" rx="24" fill="#faf7f1" stroke="#161311" stroke-width="3"/>
+  <path d="M24 25l9-10 10 12" fill="none" stroke="#161311" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64 25l-9-10-10 12" fill="none" stroke="#161311" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 60l16-35 16 35" fill="none" stroke="#161311" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M35.5 46h17" fill="none" stroke="#161311" stroke-width="4" stroke-linecap="round"/>
+  <path d="M59 30c-2.4-3-6.1-4.8-10.4-4.8-7 0-12.6 5.6-12.6 12.6S41.6 50.4 48.6 50.4c4.3 0 8-1.8 10.4-4.8" fill="none" stroke="#a88b73" stroke-width="3.2" stroke-linecap="round"/>
+</svg>
